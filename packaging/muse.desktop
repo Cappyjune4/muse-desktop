@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=muSE
+GenericName=Music Player
+Comment=Radio, podcasts, Jellyfin music and your own
+Exec=muse %F
+Icon=muse
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=radio;podcast;jellyfin;music;player;mpv;
+StartupWMClass=muse
+MimeType=audio/mpeg;audio/flac;audio/x-flac;audio/mp4;audio/x-m4a;audio/aac;audio/ogg;audio/x-vorbis+ogg;audio/opus;audio/x-opus+ogg;audio/wav;audio/x-wav;audio/x-ms-wma;audio/x-aiff;audio/x-ape;audio/x-wavpack;audio/x-matroska;

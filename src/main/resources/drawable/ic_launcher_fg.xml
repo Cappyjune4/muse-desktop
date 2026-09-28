@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- muSE app icon: a play button in radio waves, the waves in the muOS-theme wordmark colours
+     (blue, green, amber, red) that the in-app "muSE" wordmark uses. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <group android:scaleX="0.64" android:scaleY="0.64" android:pivotX="54" android:pivotY="54">
+        <path android:fillColor="#FFF5F5F5" android:pathData="M45,37 Q45,33.5 48,35.2 L68,51.2 Q70.8,54 68,56.8 L48,72.8 Q45,74.5 45,71 Z" />
+        <path android:strokeColor="#FF4DA6F5" android:strokeWidth="7" android:strokeLineCap="round"
+            android:pathData="M33,33 A29,29 0 0,0 33,75" />
+        <path android:strokeColor="#FF66BB6A" android:strokeWidth="7" android:strokeLineCap="round"
+            android:pathData="M75,33 A29,29 0 0,1 75,75" />
+        <path android:strokeColor="#FFFFB74D" android:strokeWidth="7" android:strokeLineCap="round"
+            android:pathData="M20,20 A47,47 0 0,0 20,88" />
+        <path android:strokeColor="#FFEF7061" android:strokeWidth="7" android:strokeLineCap="round"
+            android:pathData="M88,20 A47,47 0 0,1 88,88" />
+    </group>
+</vector>

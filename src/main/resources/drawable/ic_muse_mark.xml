@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- muSE mark: a play button inside radio waves; tinted by the theme where it's used. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FF000000" android:pathData="M46,38 Q46,35 48.6,36.4 L67,51.4 Q69.5,54 67,56.6 L48.6,71.6 Q46,73 46,70 Z" />
+    <path android:strokeColor="#FF000000" android:strokeWidth="6" android:strokeLineCap="round"
+        android:pathData="M34,34 A28,28 0 0,0 34,74 M74,34 A28,28 0 0,1 74,74" />
+    <path android:strokeColor="#FF000000" android:strokeWidth="6" android:strokeLineCap="round" android:strokeAlpha="0.5"
+        android:pathData="M22,22 A45,45 0 0,0 22,86 M86,22 A45,45 0 0,1 86,86" />
+</vector>
